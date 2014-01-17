@@ -1,3 +1,5 @@
+내가 이걸 왜 Fork 했냐고? 자스는 많이들 하는데 왜이렇게 프라미즈 패턴에 우매한 불행한 자스 개발자들이 많은가? 전도하기 위해 Fork 했다. 단계적으로 Fork 띄우겠다.
+
 # Promises/A+
 
 **An open standard for sound, interoperable JavaScript promises&mdash;by implementers, for implementers.**
